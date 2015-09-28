@@ -1,0 +1,43 @@
+A Survey of Reliability Issues	 of Wireless Communication in Intelligent 
+Transportation Systems
+
+Mohammad 	Ashrafuzzaman
+
+CS520 Semester	 Project 2015
+Computer Science, University of Idaho, 	Moscow, ID
+
+
+
+Abstract
+
+Intelligent Transportation Systems (ITS) provide advanced services to vehicles on the road in 
+order to reduce accidents and increase positive experiences in transportation and traffic control.  
+The central and the most critical technology in ITS is Wireless Access in Vehicular Environments 
+(WAVE) that uses IEEE 802.11p based wireless communication, named Dedicated Short Range 
+Communication (DSRC). DSRC 	is used to   transmit and receive different types of safety 
+messages between the vehicles, and between vehicles and road-side infrastructures. The most 
+important of these safety messages include Basic Safety Message (BSM) and Event-driven 
+Safety Message (ESM). Researches in the last 20 years have established ITS's viability in 
+improving traffic congestion and safety 	factors, and manufacturers are increasingly incorporating  
+features of ITS in their vehicles.
+
+Being a safety-critical, hence 	very much time-sensitive, application system, performance and 
+reliability are of paramount   importance to ITS and by corollary to WAVE and DSRC. Being a 
+wireless system, WAVE is  susceptible to general reliability issues in wireless communication 
+systems, such as reliable   data delivery, media access control, and security issues. These issues  
+become complicated in ITS,  as the wireless networks formed by the vehicles and infrastructures 
+are of ad hoc topology (and hence appropriately named Vehicular ad hoc Network or VANET) 
+and configuration of VANETs changes dynamically and depending of the traffic situation rather 
+quickly. ITS introduces additional reliability issues like hidden and exposed terminal problem, 
+non-saturated message arrival,   fading transmission channel, etc.
+
+This paper will survey the   literature that addresses reliability and performance issues in wireless 
+communication, i.e., in DSRC, WAVE and VANET, in ITS. This will investigate which of the 
+issues have been addressed and under what conditions the experiments were conducted and their 
+findings. Our survey will search for and identify scholarly papers on this topic, list those papers 
+as references after establishing   how those papers deal with reliability issues in ITS. We intend to 
+organize our paper by categorizing		 the reliability and general security issues and summarizing 
+the related works for the appropriate		 category. Our investigation is aimed to provide an in-depth 
+and accurate study of where the vehicular wireless communication stands in terms of 
+guaranteeing reliable and secure services. We also aim to identify if there is a gap in the literature 
+in studying any of the reliability or general 		security issues. 
