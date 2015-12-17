@@ -1,0 +1,13 @@
+Your name: Mohammad Ashrafuzzaman
+The student’s name you are reviewing: Ensheng Dong
+The title of the project you are reviewing:Capital Bikeshare Prediction
+
+Your scores and comments for each evaluation metric and the total:
+Abstract: 5
+Data: Good description of data - 5
+Models: Good choice of Models  - 5
+Results: 5
+Code: 5
+Quality: 5
+Complexity: 5
+TOTAL: 35
